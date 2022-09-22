@@ -1,0 +1,444 @@
+.carousel_image {
+  width: 99%;
+  height: 500px;
+  margin-bottom: 8px;
+  margin-top: 6px;
+}
+.home_image1 {
+  background-size: cover;
+  width: 99%;
+  height: 30rem;
+}
+.home_image2 {
+  background-size: cover;
+  width: 99%;
+  height: 40rem;
+  margin-bottom: 5px;
+  margin-top: 2px;
+}
+
+.text_footer_try {
+  display: block;
+  margin-bottom: 11px;
+}
+/* .......................................................................................  */
+
+.store_para1 {
+  /* background-color: rgb(250, 250, 250); */
+  font-size: 15px;
+  font-size: 14px;
+  height: 52px;
+  padding-top: 5px;
+}
+.store_outer1 {
+  background-color: rgb(245, 245, 245);
+  margin-bottom: 20px;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  /* padding-left: 200px; */
+}
+
+.store_heading1 {
+  font-size: 45px;
+  text-align: left;
+  font-weight: 600;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.store_heading2 {
+  color: #6e6e73;
+}
+.store_icon2 {
+  font-size: 40px;
+  color: blue;
+  margin-top: 20px;
+  float: right;
+  margin-right: -20px;
+}
+.store_heading3 {
+  display: inline;
+  margin-top: -10px;
+  float: left;
+  margin-top: 18px;
+  font-weight: 600;
+  font-size: 15px;
+}
+.store_heading4 {
+  display: inline;
+  margin-top: -10px;
+  float: left;
+  margin-top: -2px;
+  font-size: 15px;
+  font-weight: 400;
+  color: #0066cc;
+}
+.store_div2 {
+  padding-right: 100px;
+}
+.store_heading5 {
+  text-align: left;
+  margin-top: 50px;
+  font-size: 30px;
+}
+.store_heading5_span {
+  color: #6e6e73;
+}
+.icon-image {
+  margin-top: 50px;
+  width: 100px;
+}
+.store-card-big1 {
+  text-align: left;
+  background-image: url("../../../public/images/iphone_new.jpg");
+  background-position: left;
+  width: 20rem;
+  height: 30rem;
+  border-radius: 15px;
+  padding: 10px;
+  /* margin-left: -15px; */
+  background-repeat: no-repeat;
+}
+.store-card-big1:hover {
+  box-shadow: 0px 0px 10px 10px #d1d1d2;
+}
+.store-card-big2 {
+  text-align: left;
+  background-image: url("../../../public/images/watch-new.jpg");
+  background-position: left;
+  width: 20rem;
+  height: 30rem;
+  border-radius: 15px;
+  padding: 10px;
+  /* margin-left: -45px; */
+  background-repeat: no-repeat;
+}
+.store-card-big2:hover {
+  box-shadow: 0px 0px 10px 10px #d1d1d2;
+}
+.store-card-big3 {
+  text-align: left;
+  background-image: url("../../../public/images/iphone14-new.jpg");
+  background-position: left;
+  width: 20rem;
+  height: 30rem;
+  border-radius: 15px;
+  padding: 10px;
+  /* margin-left: -75px; */
+  background-repeat: no-repeat;
+}
+.store-card-big3:hover {
+  box-shadow: 0px 0px 10px 10px #d1d1d2;
+}
+.store-card-p {
+  font-size: 11px;
+  margin-top: 10px;
+  font-weight: bold;
+}
+.store-card-big4 {
+  text-align: left;
+  background-image: url("../../../public/images/specialist.jpg");
+  background-position: left;
+  width: 30rem;
+  height: 30rem;
+  border-radius: 15px;
+  padding: 10px;
+  /* margin-left: -45px; */
+  background-repeat: no-repeat;
+}
+.store-card-big4:hover {
+  box-shadow: 0px 0px 10px 10px #d1d1d2;
+}
+.store_heading6 {
+  font-size: 26px;
+  text-align: left;
+}
+.store_heading7 {
+  font-size: 26px;
+  margin-top: 10px;
+  margin-left: 5px;
+  text-align: left;
+}
+.store-card-big5 {
+  text-align: left;
+  background-image: url("../../../public/images/apps.jpg");
+  background-position: left;
+  width: 30rem;
+  height: 230px;
+  border-radius: 15px;
+  padding: 10px;
+  /* margin-left: -45px; */
+  background-repeat: no-repeat;
+  margin-bottom: 22px;
+}
+.store-card-big5:hover {
+  box-shadow: 0px 0px 10px 10px #d1d1d2;
+}
+.store-card-big6 {
+  text-align: left;
+  background-image: url("../../../public/images/services-image.jpg");
+  background-position: left;
+  width: 30rem;
+  height: 230px;
+  border-radius: 15px;
+  padding: 10px;
+  /* margin-left: -45px; */
+  background-repeat: no-repeat;
+}
+.store-card-big6:hover {
+  box-shadow: 0px 0px 10px 10px #d1d1d2;
+}
+
+.nav-icon-mac {
+  width: 80px;
+  height: 54px;
+  background-size: 80px 54px;
+  background-repeat: no-repeat;
+  background-image: url(https://www.apple.com/v/mac/home/bq/images/familybrowser/macbookair_light__f0o95rwae8ae_large.svg);
+  display: block;
+}
+.nav-icon-mac2 {
+  width: 80px;
+  height: 54px;
+  background-size: 80px 54px;
+  background-repeat: no-repeat;
+  background-image: url(https://www.apple.com/v/mac/home/bq/images/familybrowser/macbook_pro_light__e791sjqzt32a_large.svg);
+  display: block;
+}
+.nav-icon-imac {
+  width: 80px;
+  height: 54px;
+  background-size: 80px 54px;
+  background-repeat: no-repeat;
+  background-image: url(https://www.apple.com/v/mac/home/bq/images/familybrowser/imac_24_light__colyztscbeeu_large.svg);
+  display: block;
+}
+.nav-icon-macmini {
+  width: 80px;
+  height: 54px;
+  background-size: 80px 54px;
+  background-repeat: no-repeat;
+  background-image: url(https://www.apple.com/v/mac/home/bq/images/familybrowser/mac_mini_light__frtahmzmd4mm_large.svg);
+  display: block;
+}
+.nav-icon-macstudio {
+  width: 80px;
+  height: 54px;
+  background-size: 80px 54px;
+  background-repeat: no-repeat;
+  background-image: url(https://www.apple.com/v/mac/home/bq/images/familybrowser/mac_studio_light__ea3pb1auizu6_large.svg);
+  display: block;
+}
+.nav-icon-compare {
+  width: 80px;
+  height: 54px;
+  background-size: 80px 54px;
+  background-repeat: no-repeat;
+  background-image: url(https://www.apple.com/v/mac/home/bq/images/familybrowser/mac_compare_light__emml1umdv9m6_large.svg);
+  display: block;
+}
+.nav-icon-macstudio {
+  width: 80px;
+  height: 54px;
+  background-size: 80px 54px;
+  background-repeat: no-repeat;
+  background-image: url(https://www.apple.com/v/mac/home/bq/images/familybrowser/mac_studio_light__ea3pb1auizu6_large.svg);
+  display: block;
+}
+.nav-icon-display {
+  width: 80px;
+  height: 54px;
+  background-size: 80px 54px;
+  background-repeat: no-repeat;
+  background-image: url(https://www.apple.com/v/mac/home/bq/images/familybrowser/displays_light__ewxqx5obdxci_large.svg);
+  display: block;
+}
+.nav-icon-macpro {
+  width: 80px;
+  height: 54px;
+  background-size: 80px 54px;
+  background-repeat: no-repeat;
+  background-image: url(https://www.apple.com/v/mac/home/bq/images/familybrowser/mac_pro_light__cj4dvg7thx5y_large.svg);
+  display: block;
+}
+.nav-icon-monterey {
+  width: 80px;
+  height: 54px;
+  background-size: 80px 54px;
+  background-repeat: no-repeat;
+  background-image: url(https://www.apple.com/v/mac/home/bq/images/familybrowser/mac_os_light__d0zczt34scq6_large.svg);
+  display: block;
+}
+.nav-icon-shopmac {
+  width: 80px;
+  height: 54px;
+  background-size: 80px 54px;
+  background-repeat: no-repeat;
+  background-image: url(https://www.apple.com/v/mac/home/bq/images/familybrowser/mac_shop_light__layuggud1xe2_large.svg);
+  display: block;
+}
+.mac-span-text1 {
+  font-size: 12px;
+  text-align: center;
+  color: black;
+  margin-left: 5px;
+}
+.mac-heading-2{
+  background-color: #eeeeee;
+  padding-top: 10px;
+  padding-bottom: 1px;
+  text-align: center;
+  font-size: 15px;
+}
+.nav-icon-iphone14pro {
+  width: 80px;
+  height: 54px;
+  background-size: 80px 54px;
+  background-repeat: no-repeat;
+  background-image: url(	https://www.apple.com/v/iphone/home/bj/images/chapternav/iphone_14_pro_light__dfhcc00ur2oi_large.svg);
+  display: block;
+}
+.nav-icon-iphone14 {
+  width: 80px;
+  height: 54px;
+  background-size: 80px 54px;
+  background-repeat: no-repeat;
+  background-image: url(https://www.apple.com/v/iphone/home/bj/images/chapternav/iphone_14_light__fwknsxkf80uq_large.svg);
+  display: block;
+}
+.nav-icon-iphone13 {
+  width: 80px;
+  height: 54px;
+  background-size: 80px 54px;
+  background-repeat: no-repeat;
+  background-image: url(https://www.apple.com/v/iphone/home/bj/images/chapternav/iphone_13_light__ewo3e0sf67o2_large.svg);
+  display: block;
+}
+.nav-icon-iphonese {
+  width: 80px;
+  height: 54px;
+  background-size: 80px 54px;
+  background-repeat: no-repeat;
+  background-image: url(https://www.apple.com/v/iphone/home/bj/images/chapternav/iphone_se_light__fhg8duy6ffau_large.svg);
+  display: block;
+}
+.nav-icon-iphone12 {
+  width: 80px;
+  height: 54px;
+  background-size: 80px 54px;
+  background-repeat: no-repeat;
+  background-image: url(https://www.apple.com/v/iphone/home/bj/images/chapternav/iphone_12_light__cxh2ll1zwpw2_large.svg);
+  display: block;
+}
+.nav-icon-airpods {
+  width: 80px;
+  height: 54px;
+  background-size: 80px 54px;
+  background-repeat: no-repeat;
+  background-image: url(https://www.apple.com/v/iphone/home/bj/images/chapternav/airpods_light__8oj157p2476a_large.svg);
+  display: block;
+}
+.nav-icon-airtags {
+  width: 80px;
+  height: 54px;
+  background-size: 80px 54px;
+  background-repeat: no-repeat;
+  background-image: url(https://www.apple.com/v/iphone/home/bj/images/chapternav/airtag_light__cb2bmnv6aoeu_large.svg);
+  display: block;
+}
+.nav-icon-accessories {
+  width: 80px;
+  height: 54px;
+  background-size: 80px 54px;
+  background-repeat: no-repeat;
+  background-image: url(https://www.apple.com/v/iphone/home/bj/images/chapternav/accessories_light__ed5l6ipsevqu_large.svg);
+  display: block;
+}
+.nav-icon-shopiphone {
+  width: 80px;
+  height: 54px;
+  background-size: 80px 54px;
+  background-repeat: no-repeat;
+  background-image: url(https://www.apple.com/v/iphone/home/bj/images/chapternav/shop_iphone_light__b2toggskllle_large.svg);
+  display: block;
+}
+.mac-para2{
+  margin: 30px 10px;
+  padding: 50px;
+}
+.macbookairpara{
+  text-align: left;
+  /* background-color: #eeeeee; */
+}
+.macbookairparah1{
+  font-size: 60px;
+  font-weight: 600;
+}
+.macbookairpara1{
+  font-size: 18px;
+  color: rgb(246, 161, 4);
+  font-weight: bold;
+}
+.macbookairimage{
+  width: 100%;
+}
+.macbookairbutton1{
+  padding: 4px 60px;
+  border: 2px solid rgb(249, 249, 249);
+  background-color: rgb(249, 249, 249);
+  margin-right: 10px;
+}
+.macbookairbutton1:hover{
+  padding: 4px 60px;
+  background-color: rgb(0, 0, 0);
+  color: white;
+  border: 2px solid black;
+}
+.macbookairbutton2{
+  padding: 4px 30px;
+  background-color: black;
+  color: white;
+}
+.macbookairbutton2:hover{
+  padding: 4px 30px;
+  border: 2px solid rgb(249, 249, 249);
+  background-color: rgb(249, 249, 249);
+  color: black;
+}
+.mac-para3{
+  margin: 30px 0px;
+  padding: 50px;
+  background-color: black;
+}
+.macbookairpara2{
+  text-align: right;
+  margin: 30px 10px;
+  padding: 50px;
+  color: white;
+}
+.macbookairimage2{
+  width: 100%;
+  height: 400px;
+}
+.mac-para4{
+  margin-top: 100px;
+  padding-bottom: 30px;
+}
+.macparaheading2{
+  font-size: 40px;
+}
+.mac_li_link{
+  text-decoration: none;
+  color: black;
+  font-size: 16px;
+  margin-right: 24px;
+  text-underline-position:below;
+}
+.t-item{
+  display: block;
+  font-size: larger;
+  text-align: center;
+}
+.t-item-logo{
+  display: block;
+  font-size: 40px;
+  text-align: center;
+}

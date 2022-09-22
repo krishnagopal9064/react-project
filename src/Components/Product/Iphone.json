@@ -1,0 +1,32 @@
+{
+    "IphoneData" : [
+        {
+            "prod_id":"p1",
+            "prod_name":"iPhone 14 Pro",
+            "prod_price":"129900.00",
+            "prod_image":"https://www.apple.com/v/iphone/home/bj/images/overview/compare/compare_iphone_14_pro__cjmfbiggqhpy_large.jpg",
+            "prod_description":"The iPhone 14 and the iPhone 14 Plus are Apple's new affordable flagship iPhones with pricing starting at $799, and the devices are being sold alongside the more expensive iPhone 14 Pro and iPhone 14 Pro Max."
+        },
+        {
+            "prod_id":"p2",
+            "prod_name":"iPhone 14",
+            "prod_price":"79900.00",
+            "prod_image":"https://www.apple.com/v/iphone/home/bj/images/overview/compare/compare_iphone_14__ct4sjk962pea_large.jpg",
+            "prod_description":"The iPhone 14 models come in blue, purple, midnight, starlight, and (PRODUCT)RED. Unlike the iPhone 14 Pro models, the iPhone 14 and 14 Plus continue to have a notch at the top of the display that houses the TrueDepth camera. Like the iPhone 13 models, the iPhone 14 and iPhone 14 Plus include Super Retina XDR OLED displays that support 1200 nits peak brightness, a 2,000,000:1 contrast ratio, Dolby Vision, and True Tone support for matching the white balance of the display to the lighting in the room."
+        },
+        {
+            "prod_id":"p3",
+            "prod_name":"iPhone 13",
+            "prod_price":"64900",
+            "prod_image":"https://www.apple.com/newsroom/images/product/iphone/standard/Apple-iPhone-14-Pro-iPhone-14-Pro-Max-silver-220907_inline.jpg.large.jpg",
+            "prod_description":"A durable Ceramic Shield front cover protects the iPhones display from bumps and drops, and the iPhone 14 models are IP68 water resistant, allowing them to withstand a depth of 6 meters for up to 30 minutes. Apple is using the same A15 chip that was in the iPhone 13 Pro models for the iPhone 14 models, but there is an updated internal design that allows for better thermal performance. The A15 chip offers a 6-core CPU, a 5-core GPU, and a 16-core Neural Engine."
+        },
+        {
+            "prod_id":"p4",
+            "prod_name":"iPhone 12 Mini",
+            "prod_image":"https://www.apple.com/newsroom/images/product/iphone/geo/apple_iphone-12_2-up_geo_10132020_inline.jpg.large.jpg",
+            "prod_price":"49900.00",
+            "prod_description":"The new M2 chip makes the 13‑inch MacBook Pro more capable than ever. The same compact design supports up to 20 hours of battery life1 and an active cooling system to sustain enhanced performance. Featuring a brilliant Retina display, a FaceTime HD camera and studio‑quality mics, it’s our most portable pro laptop."
+        }
+    ]
+}

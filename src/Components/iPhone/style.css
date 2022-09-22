@@ -1,0 +1,21 @@
+.iphone-div3{
+    background-color: rgb(242, 242, 242);
+    padding: 60px 0px;
+}
+.iphone-img{
+    width: 100%;
+    margin-bottom: 10px;
+}
+.cart-table{
+    font-size: 18px;
+}
+.cart-table2{
+    font-size: 16px;
+}
+.quantity-button{
+    border: none;
+    font-size: 18px;
+}
+.cart-image{
+    align-items: center;
+}

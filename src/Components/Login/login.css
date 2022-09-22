@@ -1,0 +1,30 @@
+.login_inner{
+    margin-top: 100px;
+}
+.input{
+    background-color: rgb(251, 251, 251);
+    padding: 5px 120px 5px 15px;
+    border: 1px solid rgb(209, 209, 209);
+    border-radius: 4px;
+}
+.button_submit{
+    margin-left: auto;
+    margin-right: auto;
+}
+.button_text{
+    padding: 5px 30px;
+    background-color: rgba(165, 185, 240, 0.82);
+    border: 1px solid rgb(127, 127, 209);
+    color: rgb(0, 0, 0);
+    border-radius: 4px;
+    font-weight: 25px;
+    letter-spacing: 1px;
+}
+.login-text-buttom{
+    text-decoration: none;
+    font-size: 14px;
+}
+.login-hr-line{
+    width: 220px;
+    /* border: 1px solid; */
+}

@@ -1,0 +1,20 @@
+.accessories-para1{
+padding: 60px 20px 30px 20px;
+}
+.accessories-heading1{
+    text-align: left;
+    margin-top: 30px;
+}
+.accessories-image1{
+    /* width: 800px; */
+    /* margin-left: 60px; */
+    background-image: url("https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/magsafe-202209?wid=1440&hei=480&fmt=jpeg&qlt=95&.v=1660687633632" );
+    background-size: cover;
+}
+.assessorise-image-2{
+    background-color: #f5f5f7;
+    margin: 10px 5px;
+    padding-top: 20px;
+    padding-bottom: 70px;
+    border-radius: 10px;
+}

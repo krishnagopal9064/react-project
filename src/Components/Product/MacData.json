@@ -1,0 +1,60 @@
+{
+    "MacData" : [
+        {
+            "prod_id":"m1",
+            "prod_name":"MacBook Air",
+            "prod_price":"99900.00",
+            "prod_image":"https://www.apple.com/v/mac/home/bq/images/overview/compare/compare_mba__fchj615oz0yi_large.png",
+            "prod_description":"MacBook Air with M1 is an incredibly portable laptop — it’s nimble and quick, with a silent, fanless design and a beautiful Retina display. Thanks to its slim profile and all‑day battery life, this Air moves at the speed of lightness."
+        },
+        {
+            "prod_id":"m2",
+            "prod_name":"MacBook Air",
+            "prod_price":"119900.00",
+            "prod_image":"https://www.apple.com/v/mac/home/bq/images/overview/compare/compare_mbam2__bdesjk99hf4i_large.png",
+            "prod_description":"MacBook Air with M2 chip starts the next generation of Apple silicon, with even more of the speed and power efficiency of M1. So you can get more done faster with a more powerful 8‑core CPU. Create captivating images and animations with up to a 10_core GPU. Work with more streams of 4K and 8K ProRes video with the high‑performance media engine. And keep working — or playing — all day and into the night with up to 18 hours of battery life."
+        },
+        {
+            "prod_id":"m3",
+            "prod_name":"MacBook Pro 13 ",
+            "prod_price":"129900",
+            "prod_image":"https://www.apple.com/v/mac/home/bq/images/overview/compare/compare_mbp13__euj5z15300om_large.png",
+            "prod_description":"The new M2 chip makes the 13‑inch MacBook Pro more capable than ever. The same compact design supports up to 20 hours of battery life1 and an active cooling system to sustain enhanced performance. Featuring a brilliant Retina display, a FaceTime HD camera and studio‑quality mics, it’s our most portable pro laptop."
+        },
+        {
+            "prod_id":"m4",
+            "prod_name":"MacBook Pro 14 ",
+            "prod_image":"https://www.apple.com/v/mac/home/bq/images/overview/compare/compare_mbam2__bdesjk99hf4i_large.png",
+            "prod_price":"194900.00",
+            "prod_description":"The new M2 chip makes the 13‑inch MacBook Pro more capable than ever. The same compact design supports up to 20 hours of battery life1 and an active cooling system to sustain enhanced performance. Featuring a brilliant Retina display, a FaceTime HD camera and studio‑quality mics, it’s our most portable pro laptop."
+        },
+        {
+            "prod_id":"m5",
+            "prod_name":"iMac 24' ",
+            "prod_image":"https://www.apple.com/v/mac/home/bq/images/overview/compare/compare_imac24__bdgus6d1xqb6_large.png",
+            "prod_price":"119900.00",
+            "prod_description":"In its more general usage, a personal computer (PC) is a microcomputer designed for use by one person at a time. Prior to the PC, computers were designed for (and only affordable by) companies who attached terminals for multiple users to a single large computer whose resources were shared among all users. The advent of the era of the personal computer was acknowledged by Time magazine in 1982, when they broke with tradition by choosing the PC as their Man of the Year."
+        },
+        {
+            "prod_id":"m6",
+            "prod_name":"Mac mini ",
+            "prod_image":"https://www.apple.com/v/mac/home/bq/images/overview/compare/compare_macmini__b77zzeep1s6a_large.png",
+            "prod_price":"64900.00",
+            "prod_description":"The term PC has been traditionally used to describe an IBM-compatible personal computer in contradistinction to an Apple MacIntosh computer. The distinction is both technical and cultural and harkens back to the early years of personal computers, when IBM and Apple were the two major competitors. Originally, the IBM-compatible PC was one with an Intel microprocessor architecture and an operating system such as DOS or Windows that written to use that microprocessor."
+        },
+        {
+            "prod_id":"m7",
+            "prod_name":"Mac Studio ",
+            "prod_image":"https://www.apple.com/v/mac/home/bq/images/overview/compare/compare_macmini__b77zzeep1s6a_large.png",
+            "prod_price":"189900.00",
+            "prod_description":"In its more general usage, a personal computer (PC) is a microcomputer designed for use by one person at a time. Prior to the PC, computers were designed for (and only affordable by) companies who attached terminals for multiple users to a single large computer whose resources were shared among all users. The advent of the era of the personal computer was acknowledged by Time magazine in 1982, when they broke with tradition by choosing the PC as their Man of the Year."
+        },
+        {
+            "prod_id":"m8",
+            "prod_name":"Mac Pro ",
+            "prod_image":"https://www.apple.com/v/mac/home/bq/images/overview/compare/compare_macpro__cj3i514iwpua_large.png",
+            "prod_price":"499900.00",
+            "prod_description":"In its more general usage, a personal computer (PC) is a microcomputer designed for use by one person at a time. Prior to the PC, computers were designed for (and only affordable by) companies who attached terminals for multiple users to a single large computer whose resources were shared among all users. The advent of the era of the personal computer was acknowledged by Time magazine in 1982, when they broke with tradition by choosing the PC as their Man of the Year."
+        }
+    ]
+}
