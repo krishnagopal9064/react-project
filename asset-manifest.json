@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-project/static/css/main.d981ae97.css",
+    "main.js": "/react-project/static/js/main.a5645bf3.js",
+    "static/js/787.42186139.chunk.js": "/react-project/static/js/787.42186139.chunk.js",
+    "static/media/watch-new.jpg": "/react-project/static/media/watch-new.72d9fab40abc44723c15.jpg",
+    "static/media/specialist.jpg": "/react-project/static/media/specialist.7e23aa2a47dbe0c357de.jpg",
+    "static/media/iphone_new.jpg": "/react-project/static/media/iphone_new.629c379c64ad8059db22.jpg",
+    "static/media/iphone14-new.jpg": "/react-project/static/media/iphone14-new.7fbb77fa7b33d28afe34.jpg",
+    "static/media/apps.jpg": "/react-project/static/media/apps.a05b85c697eab4fe329f.jpg",
+    "static/media/services-image.jpg": "/react-project/static/media/services-image.d06f6cf874bda75c24aa.jpg",
+    "index.html": "/react-project/index.html",
+    "main.d981ae97.css.map": "/react-project/static/css/main.d981ae97.css.map",
+    "main.a5645bf3.js.map": "/react-project/static/js/main.a5645bf3.js.map",
+    "787.42186139.chunk.js.map": "/react-project/static/js/787.42186139.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d981ae97.css",
+    "static/js/main.a5645bf3.js"
+  ]
+}
